@@ -1,4 +1,4 @@
-# maquina-de-doces
+# Máquina de doces
 
 Este código HTML define uma página que apresenta uma "Máquina de Doces" com uma interface de usuário simples. A página tem dois elementos principais: o visor e a seção de produtos.
 

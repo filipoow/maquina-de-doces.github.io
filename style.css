@@ -1,0 +1,139 @@
+.maquina {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+  }
+  
+  .maquina h2 {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .produtos, .dinheiro {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .produtos h3, .dinheiro h3 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .produto {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .produto img {
+    width: 10rem;
+  }
+
+  .produto h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .produto p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .produto button {
+    font-size: 16px;
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .produto button:hover {
+    background-color: #3e8e41;
+  }
+
+  .visor {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5rem;
+  }
+  
+  
+  .dinheiro button {
+    font-size: 16px;
+    padding: 10px 20px;
+    background-color: #f44336;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+  }
+
+  .dinheiro button:hover {
+    background-color: #d32f2f;
+  }
+  
+  .notas {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .notas button {
+    font-size: 16px;
+    padding: 10px 20px;
+    background-color: #008CBA;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .notas button:hover {
+    background-color: #006080;
+  }
+  
+  #pagar {
+    font-size: 16px;
+    padding: 10px 20px;
+    background-color: #2196f3;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  #pagar:hover {
+    background-color: #0e78c2;
+  }
+  
+  .dinheiro-inserido {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: -1rem;
+  }
+  
+  .dinheiro-inserido p {
+    font-size: 18px;
+  }
+  
+  #dinheiro-inserido-valor {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  

@@ -1,8 +1,8 @@
 // Criar variáveis para armazenar os produtos e seus preços
 const produtos = [
-    { nome: 'Fini', preco: 3.50 },
-    { nome: 'Trento', preco: 5.00 },
-    { nome: 'Ouro-Branco', preco: 2.00 }
+    { nome: 'Fini', preco: 6.00 },
+    { nome: 'Trento', preco: 7.00 },
+    { nome: 'Ouro-Branco', preco: 8.00 }
   ];
   
   // Criar variável para armazenar o dinheiro inserido
